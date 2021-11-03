@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "link": "/",
+        "linkText": "Home"
+    },
+    {
+        "id": 2,
+        "linkText": "Services",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/services",
+                "linkText": "Banners"
+            },
+            {
+                "id": 32,
+                "link": "/services-v2",
+                "linkText": "Sticker Printing"
+            },
+            {
+                "id": 33,
+                "link": "/services-v2",
+                "linkText": "Signage"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "link": "/services-v2",
+        "linkText": "Same Day Printing"
+    },
+    {
+        "id": 3,
+        "link": "/about",
+        "linkText": "About us"
+    }
+]
